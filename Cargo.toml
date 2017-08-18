@@ -1,0 +1,7 @@
+[package]
+name = "domi"
+version = "0.1.0"
+authors = ["Dmitry.Kozlovtsev <unlockmehdp@gmail.com>"]
+
+[dependencies]
+
